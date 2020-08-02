@@ -1,2 +1,2 @@
 # user-login
-Micro service for user authentication via Github 
+Basic backend for user authentication via Github 
